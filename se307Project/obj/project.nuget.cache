@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "O22youAN8cYmM7E9giVL7rU67jrbYxflNIfQJPzpBGUqSPB0uzwxvePacZZsgDAPRsWxd3tNaE7TFJMrJ9eXbA==",
+  "success": true,
+  "projectFilePath": "D:\\se 307 labs\\se307project\\se307Project\\se307Project\\se307Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\documentformat.openxml\\2.13.0\\documentformat.openxml.2.13.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

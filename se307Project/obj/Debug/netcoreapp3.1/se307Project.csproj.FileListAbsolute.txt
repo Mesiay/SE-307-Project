@@ -1,0 +1,56 @@
+D:\se 307 labs\se307project\se307Project\se307Project\bin\Debug\netcoreapp3.1\se307Project.exe
+D:\se 307 labs\se307project\se307Project\se307Project\bin\Debug\netcoreapp3.1\se307Project.deps.json
+D:\se 307 labs\se307project\se307Project\se307Project\bin\Debug\netcoreapp3.1\se307Project.runtimeconfig.json
+D:\se 307 labs\se307project\se307Project\se307Project\bin\Debug\netcoreapp3.1\se307Project.runtimeconfig.dev.json
+D:\se 307 labs\se307project\se307Project\se307Project\bin\Debug\netcoreapp3.1\se307Project.dll
+D:\se 307 labs\se307project\se307Project\se307Project\bin\Debug\netcoreapp3.1\se307Project.pdb
+D:\se 307 labs\se307project\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.csprojAssemblyReference.cache
+D:\se 307 labs\se307project\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.Authentication.resources
+D:\se 307 labs\se307project\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.Properties.Resources.resources
+D:\se 307 labs\se307project\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.csproj.GenerateResource.cache
+D:\se 307 labs\se307project\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.AssemblyInfoInputs.cache
+D:\se 307 labs\se307project\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.AssemblyInfo.cs
+D:\se 307 labs\se307project\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.csproj.CoreCompileInputs.cache
+D:\se 307 labs\se307project\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.dll
+D:\se 307 labs\se307project\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.pdb
+D:\se 307 labs\se307project\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.genruntimeconfig.cache
+D:\se 307 labs\se307project\se307Project\se307Project\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\se 307 labs\se307project\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.csproj.CopyComplete
+D:\se307Project\se307Project\bin\Debug\netcoreapp3.1\se307Project.exe
+D:\se307Project\se307Project\bin\Debug\netcoreapp3.1\se307Project.deps.json
+D:\se307Project\se307Project\bin\Debug\netcoreapp3.1\se307Project.runtimeconfig.json
+D:\se307Project\se307Project\bin\Debug\netcoreapp3.1\se307Project.runtimeconfig.dev.json
+D:\se307Project\se307Project\bin\Debug\netcoreapp3.1\se307Project.dll
+D:\se307Project\se307Project\bin\Debug\netcoreapp3.1\se307Project.pdb
+D:\se307Project\se307Project\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.csprojAssemblyReference.cache
+D:\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.Authentication.resources
+D:\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.Properties.Resources.resources
+D:\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.csproj.GenerateResource.cache
+D:\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.AssemblyInfoInputs.cache
+D:\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.AssemblyInfo.cs
+D:\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.csproj.CoreCompileInputs.cache
+D:\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.csproj.CopyComplete
+D:\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.dll
+D:\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.pdb
+D:\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.genruntimeconfig.cache
+D:\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.PurchasedTicket.resources
+D:\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.Register.resources
+D:\se 307 labs\se307project\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.PurchasedTicket.resources
+D:\se 307 labs\se307project\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.Register.resources
+D:\se 307 labs\se307project\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.AdminDisplayTicket.resources
+D:\se 307 labs\se307project\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.AdminDisplayTour.resources
+D:\se 307 labs\se307project\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.AdminMenu.resources
+D:\se 307 labs\se307project\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.AddTicket.resources
+D:\se 307 labs\se307project\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.AddTour.resources
+D:\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.AddTicket.resources
+D:\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.AddTour.resources
+D:\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.AdminDisplayTicket.resources
+D:\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.AdminDisplayTour.resources
+D:\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.AdminMenu.resources
+D:\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.UserDisplayTicket.resources
+D:\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.UserDisplayTour.resources
+D:\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.UserMenu.resources
+D:\se 307 labs\se307project\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.CustomerDisplayTicket.resources
+D:\se 307 labs\se307project\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.CustomerDisplayTour.resources
+D:\se 307 labs\se307project\se307Project\se307Project\obj\Debug\netcoreapp3.1\se307Project.CustomerMenu.resources
